@@ -1,10 +1,16 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 using UnityEngine.SceneManagement;
+
+
 
 public class Pauser : MonoBehaviour {
 	private bool paused = false;
 	public GameObject pausePanel;
+	public GameObject audio;
+
+	public bool mute;
+
 	
 	// Update is called once per frame
 	void Update () {
@@ -35,5 +41,9 @@ public class Pauser : MonoBehaviour {
 	public void unMusicGame(){
 
 		Debug.Log("unMusicGame");
+
+		mute = !mute;
+			audio.SetActive(mute);	
+	
 	}
 }
