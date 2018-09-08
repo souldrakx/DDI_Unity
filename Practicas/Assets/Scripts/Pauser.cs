@@ -43,7 +43,7 @@ public class Pauser : MonoBehaviour {
 		Debug.Log("unMusicGame");
 
 		mute = !mute;
-			audio.SetActive(mute);	
+			audio.SetActive(!mute);	
 	
 	}
 }
