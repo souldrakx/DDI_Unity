@@ -11,7 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/LevelP.unity
     guid: efbd329c7aebf934ab59a824e657c12d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Practica2.unity
     guid: 193c1b5360505bb4baeeae777c968e66
+  - enabled: 1
+    path: Assets/Scenes/Practica3.unity
+    guid: ebdea2f4e7ecddd448c946b2e2686a50
   m_configObjects: {}
