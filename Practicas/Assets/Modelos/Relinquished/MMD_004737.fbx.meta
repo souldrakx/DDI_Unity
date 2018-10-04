@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 84d6a216c9b2d994cb1b8af92fc2263c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: dummy
+    100002: Eye
+    100004: Head
+    100006: Hip
+    100008: Hole
+    100010: LBicep
+    100012: LForearm
+    100014: LHole1
+    100016: LHole2
+    100018: LHorn
+    100020: LIndex1
+    100022: LIndex2
+    100024: LMiddle1
+    100026: LMiddle2
+    100028: LRing1
+    100030: LRing2
+    100032: LSh1
+    100034: LSh2
+    100036: LSh3
+    100038: LSh4
+    100040: LShoulder
+    100042: LThumb1
+    100044: LThumb2
+    100046: Lumbar1
+    100048: Lumbar2
+    100050: //RootNode
+    100052: MMD_004737_MESH
+    100054: MMD_004737_ROOT
+    100056: Neck1
+    100058: Neck2
+    100060: RBicep
+    100062: RForearm
+    100064: RHole1
+    100066: RHole2
+    100068: RHorn
+    100070: RIndex1
+    100072: RIndex2
+    100074: RMiddle1
+    100076: RMiddle2
+    100078: Root
+    100080: RRing1
+    100082: RRing2
+    100084: RSh1
+    100086: RSh2
+    100088: RSh3
+    100090: RSh4
+    100092: RShoulder
+    100094: RThumb1
+    100096: RThumb2
+    100098: SF
+    100100: SF2
+    100102: Tail1
+    100104: Tail2
+    100106: Tail3
+    100108: UnHole1
+    100110: UnHole2
+    100112: UnHorn
+    100114: UpHole1
+    100116: UpHole2
+    400000: dummy
+    400002: Eye
+    400004: Head
+    400006: Hip
+    400008: Hole
+    400010: LBicep
+    400012: LForearm
+    400014: LHole1
+    400016: LHole2
+    400018: LHorn
+    400020: LIndex1
+    400022: LIndex2
+    400024: LMiddle1
+    400026: LMiddle2
+    400028: LRing1
+    400030: LRing2
+    400032: LSh1
+    400034: LSh2
+    400036: LSh3
+    400038: LSh4
+    400040: LShoulder
+    400042: LThumb1
+    400044: LThumb2
+    400046: Lumbar1
+    400048: Lumbar2
+    400050: //RootNode
+    400052: MMD_004737_MESH
+    400054: MMD_004737_ROOT
+    400056: Neck1
+    400058: Neck2
+    400060: RBicep
+    400062: RForearm
+    400064: RHole1
+    400066: RHole2
+    400068: RHorn
+    400070: RIndex1
+    400072: RIndex2
+    400074: RMiddle1
+    400076: RMiddle2
+    400078: Root
+    400080: RRing1
+    400082: RRing2
+    400084: RSh1
+    400086: RSh2
+    400088: RSh3
+    400090: RSh4
+    400092: RShoulder
+    400094: RThumb1
+    400096: RThumb2
+    400098: SF
+    400100: SF2
+    400102: Tail1
+    400104: Tail2
+    400106: Tail3
+    400108: UnHole1
+    400110: UnHole2
+    400112: UnHorn
+    400114: UpHole1
+    400116: UpHole2
+    2100000: eye
+    2100002: m362_Sacri_06
+    2100004: crystal
+    2100006: claw
+    2100008: m362_Sacri_07
+    2100010: Default_Material
+    2100012: m362_Sacri_08
+    4300000: SF2
+    4300002: SF
+    9500000: //RootNode
+    13700000: SF
+    13700002: SF2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

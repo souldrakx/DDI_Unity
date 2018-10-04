@@ -15,6 +15,7 @@ public class PickUpObject : MonoBehaviour
 	{
 		interactable = GetComponent<InteractableArea> ();
 		inventoryPanel = GameObject.FindGameObjectWithTag ("Inventory");
+		//inventoryPanel = FindObjectOfType<Inventory>();
 	}
 
 	void Update () 

@@ -23,7 +23,7 @@ public class InteractableArea : MonoBehaviour
 
 	void Update()
 	{
-		if (isInsideArea && Input.GetButtonDown("interact"))
+		if (isInsideArea && Input.GetKeyDown(KeyCode.M))
 		{
 			HitChair ();
 		}
@@ -58,6 +58,7 @@ public class InteractableArea : MonoBehaviour
 		Debug.Log ("item colectado!");
 		//rigidBody.AddExplosionForce (explosionForce, transform.position + positionOffset, explosionRadius);
 		Destroy(this.gameObject);
+		infoCanvas.SetActive (false);
 	}
 
 	public void ExplodeAll()
